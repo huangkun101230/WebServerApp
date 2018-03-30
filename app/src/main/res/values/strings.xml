@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebServiceApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="inputTextField">Please enter your message (e.g, your name) here...</string>
+    <string name="outputMessage">WebService Response Message will be displayed here...</string>
+    <string name="buttonLabel">Send</string>
+    <string name="title_activity_response">ResponseActivity</string>
+</resources>

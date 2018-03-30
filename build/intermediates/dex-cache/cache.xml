@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_9a208085553cc121d8575fde062cf73789119928.jar" />
+    </item>
+    <item
+        jar="/am/empire/vol/x1/as/yimingpeng/.gradle/caches/modules-2/files-2.1/net.sourceforge.kxml/kxml/2.2.4/1642506e490548d96984b8370e44257c156097f7/kxml-2.2.4.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1642506e490548d96984b8370e44257c156097f7">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/kxml-2.2.4_32ab91e553a6b48d269cef95b8ff58fc5296ec03.jar" />
+    </item>
+    <item
+        jar="/am/empire/vol/x1/as/yimingpeng/.gradle/caches/modules-2/files-2.1/net.sourceforge.kobjects/kobjects-j2me/0.0-SNAPSHOT-20040926-2/9246ca92b16c65114a7fb80b906801e06be95305/kobjects-j2me-0.0-SNAPSHOT-20040926-2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9246ca92b16c65114a7fb80b906801e06be95305">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/kobjects-j2me-0.0-SNAPSHOT-20040926-2_be92543a91328a2ed696024967743acdc0650b82.jar" />
+    </item>
+    <item
+        jar="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_e42ec30b116ccfbf671951ecd29efe31a8d781e0.jar" />
+    </item>
+    <item
+        jar="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_ca4414577f0c1e05cbee139bb6c7a13fcf72b46f.jar" />
+    </item>
+    <item
+        jar="/am/empire/vol/x1/as/yimingpeng/.gradle/caches/modules-2/files-2.1/org.xmlpull/xmlpull/1.1.3.3/9b62254da05ce6399a09164362da7b2419de63ca/xmlpull-1.1.3.3.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9b62254da05ce6399a09164362da7b2419de63ca">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/xmlpull-1.1.3.3_7e0ecaa7d55e1a4b078c6a43541cd7e90b101ae0.jar" />
+    </item>
+    <item
+        jar="/am/empire/vol/x1/as/yimingpeng/.gradle/caches/modules-2/files-2.1/com.google.code.ksoap2-android/ksoap2-j2se/3.6.0/e4733a185d549446527620772469361756457052/ksoap2-j2se-3.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e4733a185d549446527620772469361756457052">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/ksoap2-j2se-3.6.0_00b46cc86ecb250f561418dc302dd9b40dcfab1b.jar" />
+    </item>
+    <item
+        jar="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_8f12cc7bcf56fccadecca287ed230b0b6d47ff53.jar" />
+    </item>
+    <item
+        jar="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_7fe103c15ed5453a07454d472232dd5bd9320a1c.jar" />
+    </item>
+    <item
+        jar="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.1.1_a1cad2f3b2c0b260b5b32e16b7cc6a74467c08e4.jar" />
+    </item>
+    <item
+        jar="/vol/as/yimingpeng/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_236632b606653cfe2d6969421c2fa47738033ae5.jar" />
+    </item>
+    <item
+        jar="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.1_581554eb2b2573a646464f269b66935bb017b049.jar" />
+    </item>
+    <item
+        jar="/am/empire/vol/x1/as/yimingpeng/.gradle/caches/modules-2/files-2.1/com.google.code.ksoap2-android/ksoap2-base/3.6.0/290baebc90b7b320ccb2adb2ed38d7838bc805a1/ksoap2-base-3.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="290baebc90b7b320ccb2adb2ed38d7838bc805a1">
+        <dex dex="/am/phoenix/home1/yimingpeng/Downloads/deliverables/Part_B_Extra/WebServiceApp/app/build/intermediates/pre-dexed/debug/ksoap2-base-3.6.0_7f37fb639a489dd68bb7c103656c6c24728cb0cd.jar" />
+    </item>
+
+</items>
